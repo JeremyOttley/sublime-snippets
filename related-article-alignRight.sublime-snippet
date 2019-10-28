@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+<p content-type="alignRight">
+[<related-article xmlns:xlink="http://www.w3.org/1999/xlink" related-article-type="corrected-article" xlink:href="/article/####"></related-article>]
+</p>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+ <tabTrigger>relatedright</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.xml</scope>
+</snippet>

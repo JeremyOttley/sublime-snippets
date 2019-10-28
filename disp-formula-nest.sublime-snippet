@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+<disp-formula id="df${1:#}">
+  <label>${2}</label>
+  <mml:math display="block">${3}</mml:math>
+  <inline-graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="##i"/>
+</disp-formula>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+ <tabTrigger>dispnest</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.xml</scope>
+</snippet>

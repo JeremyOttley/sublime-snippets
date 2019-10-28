@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<sec>${1}</sec>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger tsec snippet -->
+ <tabTrigger>sec</tabTrigger>
+  <!-- Optional: Set a scope to limit wsecre tsec snippet will trigger -->
+  <scope>text.xml</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+<a href="mailto:${1:address}">${2:text}</a>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+ <tabTrigger>mail</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.xml</scope>
+</snippet>
+

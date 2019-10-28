@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[
+<fig id="fig${1}">
+    <label></label>
+    <caption>
+        <p></p>
+    </caption>
+    <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="fig${2}"/> 
+  <permissions>
+    <copyright-statement></copyright-statement>
+    <copyright-year></copyright-year>
+    <license><p></p></license>
+  </permissions>
+</fig>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+ <tabTrigger>fignest</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.xml</scope>
+</snippet>

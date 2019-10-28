@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+<app-group>
+  <app id="app${1}">
+    <label>${2}</label>
+    <title>${3}</title>
+    ${4}
+  </app>
+</app-group>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+ <tabTrigger>appnest</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.xml</scope>
+</snippet>

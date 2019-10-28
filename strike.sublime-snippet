@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<strike>${1:text}</strike>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+ <tabTrigger>strike</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.xml</scope>
+</snippet>

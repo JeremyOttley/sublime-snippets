@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+<ref-list>
+  <title>${1}</title>
+  <ref id="b${2:#}">
+    <citation citation-type="${3:xxx}"></citation>
+      <citation citation-type="formatted">
+            <named-content content-type="note">${4}</named-content> 
+      <named-content content-type="display">${5}</named-content>
+      </citation> 
+       <note><p>${6}</p></note> 
+  </ref>
+</ref-list>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+ <tabTrigger>refnest</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.xml</scope>
+</snippet>

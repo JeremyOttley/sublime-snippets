@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+<fig id="img${1}">
+  <caption>
+    <p>
+    ###INSERT CAPTION###
+    
+    <xref ref-type="break"/>
+    <italic>(Page #####)</italic>
+    </p>
+  </caption>
+  <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="img${2}" />
+</fig>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+ <tabTrigger>figimage</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.xml</scope>
+</snippet>

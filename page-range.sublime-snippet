@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<page-range>${1:text}</page-range>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+ <tabTrigger>page-range</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.xml</scope>
+</snippet>

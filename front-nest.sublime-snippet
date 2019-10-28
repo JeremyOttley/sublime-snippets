@@ -1,0 +1,81 @@
+<snippet>
+  <content><![CDATA[
+<front>
+  <journal-meta>
+    <journal-id journal-id-type="aggregator"></journal-id>
+  </journal-meta>
+  <article-meta>
+    <article-id></article-id>
+    <article-categories>
+      <subj-group>
+        <subject></subject>
+      </subj-group>
+    </article-categories>
+    <title-group>
+      <article-title></article-title>
+      <subtitle></subtitle>
+    </title-group>
+    <contrib-group>
+      <contrib contrib-type="author">
+        <name>
+          <surname></surname>
+          <given-names></given-names>
+          <prefix></prefix>
+          <suffix></suffix>
+        </name>
+        <degrees></degrees>
+        <role></role>
+        <bio id="bio##">
+          <p></p>
+        </bio>
+        <aff id="af#"></aff>
+      </contrib>
+      <author-comment>
+        <p></p>
+      </author-comment>
+    </contrib-group>
+    <contrib-group>
+      <on-behalf-of></on-behalf-of> 
+    </contrib-group>
+    <author-notes>
+      <corresp id="c#"></corresp>
+    </author-notes>
+    <author-notes>
+      <fn id="fn#"></fn>
+    </author-notes>
+    <pub-date pub-type="xxx">
+      <season/month></season/month>## ... choose <season> or <month>
+      <year></year>
+    </pub-date>
+    <fpage></fpage>
+    <lpage></lpage>
+    <page-range></page-range>
+    <history>
+      <date date-type="###">
+        <season></season>
+        <month></month>
+        <year></year>
+        <string-date></string-date>
+      </date>
+    </history>
+    <permissions>
+      <copyright-statement></copyright-statement>
+      <copyright-year></copyright-year>
+      <copyright-holder></copyright-holder>
+    </permissions>
+    <abstract>
+      <title></title>
+        <p></p>
+    </abstract>
+    <kwd-group>
+      <title></title>
+      <kwd></kwd>
+    </kwd-group>
+  </article-meta>
+</front>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+ <tabTrigger>frontnest</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.xml</scope>
+</snippet>

@@ -1,0 +1,36 @@
+<snippet>
+  <content><![CDATA[
+<response id="resp${1}">
+  <front>
+    <article-meta>
+      <title-group>
+        <article-title></article-title>
+        <subtitle></subtitle>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="${2}">
+          <name>
+            <surname></surname>
+            <given-names></given-names>
+          </name>
+        </contrib>  
+      </contrib-group>
+      <fpage></fpage>
+      <lpage></lpage>
+      <page-range></page-range>
+      <copyright-statement></copyright-statement>
+      <copyright-year></copyright-year>
+    </article-meta>
+  </front>
+<body>
+
+
+
+</body>
+</response>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+ <tabTrigger>response</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.xml</scope>
+</snippet>
