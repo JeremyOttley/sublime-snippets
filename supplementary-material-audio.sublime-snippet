@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+      <supplementary-material id="audio##">
+        <label>###INSERT###</label>
+        <caption>
+          <p>###INSERT CAPTION###</p>
+        </caption>
+        <media xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="audio##" mimetype="###" />
+      </supplementary-material>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+ <tabTrigger>supaudio</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.xml</scope>
+</snippet>
